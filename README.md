@@ -1,0 +1,4 @@
+syllogi
+=======
+
+Dependency configuration engine.
